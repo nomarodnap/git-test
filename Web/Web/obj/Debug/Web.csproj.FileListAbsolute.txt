@@ -1,0 +1,209 @@
+d:\pandoramon\documents\visual studio 2013\Projects\Web\Web\bin\Web.dll.config
+d:\pandoramon\documents\visual studio 2013\Projects\Web\Web\bin\Web.dll
+d:\pandoramon\documents\visual studio 2013\Projects\Web\Web\bin\Web.pdb
+d:\pandoramon\documents\visual studio 2013\Projects\Web\Web\bin\Antlr3.Runtime.dll
+d:\pandoramon\documents\visual studio 2013\Projects\Web\Web\bin\AspNet.ScriptManager.bootstrap.dll
+d:\pandoramon\documents\visual studio 2013\Projects\Web\Web\bin\AspNet.ScriptManager.jQuery.dll
+d:\pandoramon\documents\visual studio 2013\Projects\Web\Web\bin\EntityFramework.dll
+d:\pandoramon\documents\visual studio 2013\Projects\Web\Web\bin\EntityFramework.SqlServer.dll
+d:\pandoramon\documents\visual studio 2013\Projects\Web\Web\bin\Microsoft.AspNet.FriendlyUrls.dll
+d:\pandoramon\documents\visual studio 2013\Projects\Web\Web\bin\Microsoft.AspNet.Identity.Core.dll
+d:\pandoramon\documents\visual studio 2013\Projects\Web\Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+d:\pandoramon\documents\visual studio 2013\Projects\Web\Web\bin\Microsoft.AspNet.Identity.Owin.dll
+d:\pandoramon\documents\visual studio 2013\Projects\Web\Web\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+d:\pandoramon\documents\visual studio 2013\Projects\Web\Web\bin\Microsoft.Owin.dll
+d:\pandoramon\documents\visual studio 2013\Projects\Web\Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+d:\pandoramon\documents\visual studio 2013\Projects\Web\Web\bin\Microsoft.Owin.Security.Cookies.dll
+d:\pandoramon\documents\visual studio 2013\Projects\Web\Web\bin\Microsoft.Owin.Security.dll
+d:\pandoramon\documents\visual studio 2013\Projects\Web\Web\bin\Microsoft.Owin.Security.Facebook.dll
+d:\pandoramon\documents\visual studio 2013\Projects\Web\Web\bin\Microsoft.Owin.Security.Google.dll
+d:\pandoramon\documents\visual studio 2013\Projects\Web\Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+d:\pandoramon\documents\visual studio 2013\Projects\Web\Web\bin\Microsoft.Owin.Security.OAuth.dll
+d:\pandoramon\documents\visual studio 2013\Projects\Web\Web\bin\Microsoft.Owin.Security.Twitter.dll
+d:\pandoramon\documents\visual studio 2013\Projects\Web\Web\bin\Microsoft.ScriptManager.MSAjax.dll
+d:\pandoramon\documents\visual studio 2013\Projects\Web\Web\bin\Microsoft.ScriptManager.WebForms.dll
+d:\pandoramon\documents\visual studio 2013\Projects\Web\Web\bin\Microsoft.Web.Infrastructure.dll
+d:\pandoramon\documents\visual studio 2013\Projects\Web\Web\bin\Newtonsoft.Json.dll
+d:\pandoramon\documents\visual studio 2013\Projects\Web\Web\bin\Owin.dll
+d:\pandoramon\documents\visual studio 2013\Projects\Web\Web\bin\System.Web.Optimization.dll
+d:\pandoramon\documents\visual studio 2013\Projects\Web\Web\bin\System.Web.Providers.dll
+d:\pandoramon\documents\visual studio 2013\Projects\Web\Web\bin\WebGrease.dll
+d:\pandoramon\documents\visual studio 2013\Projects\Web\Web\bin\System.Web.Optimization.xml
+d:\pandoramon\documents\visual studio 2013\Projects\Web\Web\bin\Antlr3.Runtime.pdb
+d:\pandoramon\documents\visual studio 2013\Projects\Web\Web\bin\Newtonsoft.Json.xml
+d:\pandoramon\documents\visual studio 2013\Projects\Web\Web\bin\Microsoft.AspNet.FriendlyUrls.xml
+d:\pandoramon\documents\visual studio 2013\Projects\Web\Web\bin\EntityFramework.xml
+d:\pandoramon\documents\visual studio 2013\Projects\Web\Web\bin\EntityFramework.SqlServer.xml
+d:\pandoramon\documents\visual studio 2013\Projects\Web\Web\bin\Microsoft.AspNet.Identity.Core.xml
+d:\pandoramon\documents\visual studio 2013\Projects\Web\Web\bin\Microsoft.AspNet.Identity.Owin.xml
+d:\pandoramon\documents\visual studio 2013\Projects\Web\Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+d:\pandoramon\documents\visual studio 2013\Projects\Web\Web\bin\System.Web.Providers.xml
+d:\pandoramon\documents\visual studio 2013\Projects\Web\Web\bin\Microsoft.Owin.xml
+d:\pandoramon\documents\visual studio 2013\Projects\Web\Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+d:\pandoramon\documents\visual studio 2013\Projects\Web\Web\bin\Microsoft.Owin.Security.xml
+d:\pandoramon\documents\visual studio 2013\Projects\Web\Web\bin\Microsoft.Owin.Security.Facebook.xml
+d:\pandoramon\documents\visual studio 2013\Projects\Web\Web\bin\Microsoft.Owin.Security.Cookies.xml
+d:\pandoramon\documents\visual studio 2013\Projects\Web\Web\bin\Microsoft.Owin.Security.Google.xml
+d:\pandoramon\documents\visual studio 2013\Projects\Web\Web\bin\Microsoft.Owin.Security.Twitter.xml
+d:\pandoramon\documents\visual studio 2013\Projects\Web\Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+d:\pandoramon\documents\visual studio 2013\Projects\Web\Web\bin\Microsoft.Owin.Security.OAuth.xml
+d:\pandoramon\documents\visual studio 2013\Projects\Web\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+d:\pandoramon\documents\visual studio 2013\Projects\Web\Web\obj\Debug\Web.dll
+d:\pandoramon\documents\visual studio 2013\Projects\Web\Web\obj\Debug\Web.pdb
+D:\pandoramon\Documents\Visual Studio 2013\Web\Web\bin\Web.dll.config
+D:\pandoramon\Documents\Visual Studio 2013\Web\Web\bin\Web.dll
+D:\pandoramon\Documents\Visual Studio 2013\Web\Web\bin\Web.pdb
+D:\pandoramon\Documents\Visual Studio 2013\Web\Web\bin\Antlr3.Runtime.dll
+D:\pandoramon\Documents\Visual Studio 2013\Web\Web\bin\AspNet.ScriptManager.bootstrap.dll
+D:\pandoramon\Documents\Visual Studio 2013\Web\Web\bin\AspNet.ScriptManager.jQuery.dll
+D:\pandoramon\Documents\Visual Studio 2013\Web\Web\bin\EntityFramework.dll
+D:\pandoramon\Documents\Visual Studio 2013\Web\Web\bin\EntityFramework.SqlServer.dll
+D:\pandoramon\Documents\Visual Studio 2013\Web\Web\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\pandoramon\Documents\Visual Studio 2013\Web\Web\bin\Microsoft.AspNet.Identity.Core.dll
+D:\pandoramon\Documents\Visual Studio 2013\Web\Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\pandoramon\Documents\Visual Studio 2013\Web\Web\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\pandoramon\Documents\Visual Studio 2013\Web\Web\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\pandoramon\Documents\Visual Studio 2013\Web\Web\bin\Microsoft.Owin.dll
+D:\pandoramon\Documents\Visual Studio 2013\Web\Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\pandoramon\Documents\Visual Studio 2013\Web\Web\bin\Microsoft.Owin.Security.Cookies.dll
+D:\pandoramon\Documents\Visual Studio 2013\Web\Web\bin\Microsoft.Owin.Security.dll
+D:\pandoramon\Documents\Visual Studio 2013\Web\Web\bin\Microsoft.Owin.Security.Facebook.dll
+D:\pandoramon\Documents\Visual Studio 2013\Web\Web\bin\Microsoft.Owin.Security.Google.dll
+D:\pandoramon\Documents\Visual Studio 2013\Web\Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\pandoramon\Documents\Visual Studio 2013\Web\Web\bin\Microsoft.Owin.Security.OAuth.dll
+D:\pandoramon\Documents\Visual Studio 2013\Web\Web\bin\Microsoft.Owin.Security.Twitter.dll
+D:\pandoramon\Documents\Visual Studio 2013\Web\Web\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\pandoramon\Documents\Visual Studio 2013\Web\Web\bin\Microsoft.ScriptManager.WebForms.dll
+D:\pandoramon\Documents\Visual Studio 2013\Web\Web\bin\Microsoft.Web.Infrastructure.dll
+D:\pandoramon\Documents\Visual Studio 2013\Web\Web\bin\Newtonsoft.Json.dll
+D:\pandoramon\Documents\Visual Studio 2013\Web\Web\bin\Owin.dll
+D:\pandoramon\Documents\Visual Studio 2013\Web\Web\bin\System.Web.Optimization.dll
+D:\pandoramon\Documents\Visual Studio 2013\Web\Web\bin\System.Web.Providers.dll
+D:\pandoramon\Documents\Visual Studio 2013\Web\Web\bin\WebGrease.dll
+D:\pandoramon\Documents\Visual Studio 2013\Web\Web\bin\System.Web.Optimization.xml
+D:\pandoramon\Documents\Visual Studio 2013\Web\Web\bin\Antlr3.Runtime.pdb
+D:\pandoramon\Documents\Visual Studio 2013\Web\Web\bin\Newtonsoft.Json.xml
+D:\pandoramon\Documents\Visual Studio 2013\Web\Web\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\pandoramon\Documents\Visual Studio 2013\Web\Web\bin\EntityFramework.xml
+D:\pandoramon\Documents\Visual Studio 2013\Web\Web\bin\EntityFramework.SqlServer.xml
+D:\pandoramon\Documents\Visual Studio 2013\Web\Web\bin\Microsoft.AspNet.Identity.Core.xml
+D:\pandoramon\Documents\Visual Studio 2013\Web\Web\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\pandoramon\Documents\Visual Studio 2013\Web\Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\pandoramon\Documents\Visual Studio 2013\Web\Web\bin\System.Web.Providers.xml
+D:\pandoramon\Documents\Visual Studio 2013\Web\Web\bin\Microsoft.Owin.xml
+D:\pandoramon\Documents\Visual Studio 2013\Web\Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\pandoramon\Documents\Visual Studio 2013\Web\Web\bin\Microsoft.Owin.Security.xml
+D:\pandoramon\Documents\Visual Studio 2013\Web\Web\bin\Microsoft.Owin.Security.Facebook.xml
+D:\pandoramon\Documents\Visual Studio 2013\Web\Web\bin\Microsoft.Owin.Security.Cookies.xml
+D:\pandoramon\Documents\Visual Studio 2013\Web\Web\bin\Microsoft.Owin.Security.Google.xml
+D:\pandoramon\Documents\Visual Studio 2013\Web\Web\bin\Microsoft.Owin.Security.Twitter.xml
+D:\pandoramon\Documents\Visual Studio 2013\Web\Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\pandoramon\Documents\Visual Studio 2013\Web\Web\bin\Microsoft.Owin.Security.OAuth.xml
+D:\pandoramon\Documents\Visual Studio 2013\Web\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+D:\pandoramon\Documents\Visual Studio 2013\Web\Web\obj\Debug\Web.dll
+D:\pandoramon\Documents\Visual Studio 2013\Web\Web\obj\Debug\Web.pdb
+D:\pandoramon\Documents\Visual Studio 2013\Projects\Web\Web\bin\InfoSoftGlobal.dll
+D:\Dropbox\project\Web\Web\bin\Web.dll.config
+D:\Dropbox\project\Web\Web\bin\Web.dll
+D:\Dropbox\project\Web\Web\bin\Web.pdb
+D:\Dropbox\project\Web\Web\bin\Antlr3.Runtime.dll
+D:\Dropbox\project\Web\Web\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Dropbox\project\Web\Web\bin\AspNet.ScriptManager.jQuery.dll
+D:\Dropbox\project\Web\Web\bin\EntityFramework.dll
+D:\Dropbox\project\Web\Web\bin\EntityFramework.SqlServer.dll
+D:\Dropbox\project\Web\Web\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Dropbox\project\Web\Web\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Dropbox\project\Web\Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Dropbox\project\Web\Web\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Dropbox\project\Web\Web\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Dropbox\project\Web\Web\bin\Microsoft.Owin.dll
+D:\Dropbox\project\Web\Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Dropbox\project\Web\Web\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Dropbox\project\Web\Web\bin\Microsoft.Owin.Security.dll
+D:\Dropbox\project\Web\Web\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Dropbox\project\Web\Web\bin\Microsoft.Owin.Security.Google.dll
+D:\Dropbox\project\Web\Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Dropbox\project\Web\Web\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Dropbox\project\Web\Web\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Dropbox\project\Web\Web\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Dropbox\project\Web\Web\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Dropbox\project\Web\Web\bin\Microsoft.Web.Infrastructure.dll
+D:\Dropbox\project\Web\Web\bin\Newtonsoft.Json.dll
+D:\Dropbox\project\Web\Web\bin\Owin.dll
+D:\Dropbox\project\Web\Web\bin\System.Web.Optimization.dll
+D:\Dropbox\project\Web\Web\bin\System.Web.Providers.dll
+D:\Dropbox\project\Web\Web\bin\WebGrease.dll
+D:\Dropbox\project\Web\Web\bin\System.Web.Optimization.xml
+D:\Dropbox\project\Web\Web\bin\Antlr3.Runtime.pdb
+D:\Dropbox\project\Web\Web\bin\Newtonsoft.Json.xml
+D:\Dropbox\project\Web\Web\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Dropbox\project\Web\Web\bin\EntityFramework.xml
+D:\Dropbox\project\Web\Web\bin\EntityFramework.SqlServer.xml
+D:\Dropbox\project\Web\Web\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Dropbox\project\Web\Web\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Dropbox\project\Web\Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Dropbox\project\Web\Web\bin\System.Web.Providers.xml
+D:\Dropbox\project\Web\Web\bin\Microsoft.Owin.xml
+D:\Dropbox\project\Web\Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Dropbox\project\Web\Web\bin\Microsoft.Owin.Security.xml
+D:\Dropbox\project\Web\Web\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Dropbox\project\Web\Web\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Dropbox\project\Web\Web\bin\Microsoft.Owin.Security.Google.xml
+D:\Dropbox\project\Web\Web\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Dropbox\project\Web\Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Dropbox\project\Web\Web\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Dropbox\project\Web\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+D:\Dropbox\project\Web\Web\obj\Debug\Web.dll
+D:\Dropbox\project\Web\Web\obj\Debug\Web.pdb
+D:\Dropbox\Public\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Web.dll.config
+D:\Dropbox\Public\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Web.dll
+D:\Dropbox\Public\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Web.pdb
+D:\Dropbox\Public\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Antlr3.Runtime.dll
+D:\Dropbox\Public\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Dropbox\Public\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\AspNet.ScriptManager.jQuery.dll
+D:\Dropbox\Public\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\EntityFramework.dll
+D:\Dropbox\Public\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\EntityFramework.SqlServer.dll
+D:\Dropbox\Public\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Dropbox\Public\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Dropbox\Public\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Dropbox\Public\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Dropbox\Public\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Dropbox\Public\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Microsoft.Owin.dll
+D:\Dropbox\Public\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Dropbox\Public\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Dropbox\Public\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Microsoft.Owin.Security.dll
+D:\Dropbox\Public\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Dropbox\Public\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Microsoft.Owin.Security.Google.dll
+D:\Dropbox\Public\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Dropbox\Public\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Dropbox\Public\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Dropbox\Public\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Dropbox\Public\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Dropbox\Public\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Microsoft.Web.Infrastructure.dll
+D:\Dropbox\Public\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Newtonsoft.Json.dll
+D:\Dropbox\Public\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Owin.dll
+D:\Dropbox\Public\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\System.Web.Optimization.dll
+D:\Dropbox\Public\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\System.Web.Providers.dll
+D:\Dropbox\Public\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\WebGrease.dll
+D:\Dropbox\Public\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\System.Web.Optimization.xml
+D:\Dropbox\Public\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Antlr3.Runtime.pdb
+D:\Dropbox\Public\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Newtonsoft.Json.xml
+D:\Dropbox\Public\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Dropbox\Public\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\EntityFramework.xml
+D:\Dropbox\Public\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\EntityFramework.SqlServer.xml
+D:\Dropbox\Public\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Dropbox\Public\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Dropbox\Public\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Dropbox\Public\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\System.Web.Providers.xml
+D:\Dropbox\Public\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Microsoft.Owin.xml
+D:\Dropbox\Public\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Dropbox\Public\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Microsoft.Owin.Security.xml
+D:\Dropbox\Public\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Dropbox\Public\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Dropbox\Public\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Microsoft.Owin.Security.Google.xml
+D:\Dropbox\Public\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Dropbox\Public\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Dropbox\Public\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Dropbox\Public\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+D:\Dropbox\Public\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\obj\Debug\Web.dll
+D:\Dropbox\Public\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\obj\Debug\Web.pdb
