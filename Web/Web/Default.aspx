@@ -86,13 +86,13 @@
     <br /><br />    <br /><br />
             
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
+            
             
             <%--<input id="cmdControl1" type="button" value="-" onclick="ControlDIV1()" />--%> <b>บันทึกรายรับ
             </b> 
-            &nbsp;<div id="div1" > <div class="CenterColumn">
+           <div id="div1" > <div class="CenterColumn">
+                
             &nbsp;&nbsp;&nbsp; กรอกรายรับ&nbsp;&nbsp;&nbsp;&nbsp;
-
             <asp:DropDownList ID="ddlIncome" runat="server" Height="22px" Width="170px" AutoPostBack="true">
                 <asp:ListItem >การลงทุน/ดอกเบี้ยเงินฝาก</asp:ListItem>
                 <asp:ListItem >ของขวัญ/เสี่ยงโชค</asp:ListItem>
@@ -109,12 +109,12 @@
 
             &nbsp;&nbsp;&nbsp;
             <asp:Button ID="cmdAdd1" runat="server" Text="เพิ่มข้อมูล" OnClick="cmdAdd1_Click" />
-
+                    
  
                 <br />
 
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    
-                <asp:GridView ID="GridView2" runat="server" AllowPaging="True" AllowSorting="True" AutoGenerateColumns="False" CellPadding="4" DataKeyNames="AID" DataSourceID="AIcome" Width="842px" ForeColor="#333333" GridLines="None">
+                <asp:GridView ID="GridView2"  runat="server" AllowPaging="True" AllowSorting="True" AutoGenerateColumns="False" CellPadding="4" DataKeyNames="AID" DataSourceID="AIcome" Width="842px" ForeColor="#333333" GridLines="None" OnSelectedIndexChanged="GridView2_SelectedIndexChanged">
                     <AlternatingRowStyle BackColor="White" />
                     <Columns>
                         <asp:BoundField DataField="ATime" HeaderText="วัน/เวลา" SortExpression="ATime" />
@@ -147,11 +147,10 @@
           
             <br />
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-             <%--<input id="cmdControl2" type="button" value="-" onclick="ControlDIV2()" />--%> <b>บันทึกรายจ่าย</b>
+             <%--<input id="cmdControl2" type="button" value="-" onclick="ControlDIV2()" />--%> <b>บันทึกรายจ่าย</b> 
             <div id="div2">
                 <div class="CenterColumn">
-                        &nbsp;&nbsp;&nbsp; กรอกรายจ่าย&nbsp;&nbsp;
-
+                       &nbsp;&nbsp;&nbsp; กรอกรายจ่าย&nbsp;&nbsp;
             <asp:DropDownList ID="DropDownList2" runat="server" Height="22px" Width="170px">
                 <asp:ListItem>การศึกษา</asp:ListItem>
                 <asp:ListItem>ค่าซ่อม/ดูแลรักษา	</asp:ListItem>
@@ -171,9 +170,7 @@
             <asp:TextBox runat="server" ID="TextBox4"  value="จำนวนเงิน" ForeColor="GrayText" onkeypress="return isNumberKey(event)" onblur="if(this.value=='')this.value=this.defaultValue;"   onfocus="if(this.value==this.defaultValue)this.value='';this.style.color = 'black'" Width="80"></asp:Textbox>
             &nbsp;&nbsp;&nbsp;
             <asp:Button ID="Button2" runat="server" Text="เพิ่มข้อมูล" OnClick="Button2_Click" />
-
-                
-
+                         
                 <%--</div>--%>
 
             &nbsp;&nbsp;&nbsp;&nbsp;
@@ -211,7 +208,7 @@
                 </div>
         </form>
 
-
+    
 
 
 </body>

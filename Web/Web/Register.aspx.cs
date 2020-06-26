@@ -9,6 +9,7 @@ using System.Data;
 using System.Web.Security;
 using System.Web.Configuration;
 
+
 namespace Web
 {
     public partial class Register : System.Web.UI.Page
@@ -64,5 +65,7 @@ namespace Web
             Response.Redirect("Default.aspx");
         }
 
+
         }
     }
+

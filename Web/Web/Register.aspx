@@ -71,9 +71,9 @@
             </tr>
                    <td class="auto-style8"></td>
                    <td class="auto-style3">
-                    <asp:Button ID="Button2" runat="server" OnClick="Button2_Click" Text="CANCLE" />
+                    <asp:Button ID="Button2" runat="server" OnClick="Button2_Click" Text="CANCLE" CssClass="btn-link focus" />
                 &nbsp;&nbsp;&nbsp;&nbsp;
-                    <asp:Button ID="Button1" runat="server" OnClick="Button1_Click" Text="SIGN UP" />
+                    <asp:Button ID="Button1" runat="server" OnClick="Button1_Click" Text="SIGN UP" CssClass="btn-link focus" />
                 </td>
         </table>
         </div>

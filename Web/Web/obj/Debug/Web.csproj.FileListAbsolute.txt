@@ -207,3 +207,111 @@ D:\Dropbox\Public\project\เวปเซอร์วิสบริหารก
 D:\Dropbox\Public\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
 D:\Dropbox\Public\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\obj\Debug\Web.dll
 D:\Dropbox\Public\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\obj\Debug\Web.pdb
+D:\Google Drive\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Web.dll.config
+D:\Google Drive\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Web.dll
+D:\Google Drive\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Web.pdb
+D:\Google Drive\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Antlr3.Runtime.dll
+D:\Google Drive\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Google Drive\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\AspNet.ScriptManager.jQuery.dll
+D:\Google Drive\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\EntityFramework.dll
+D:\Google Drive\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\EntityFramework.SqlServer.dll
+D:\Google Drive\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Google Drive\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Google Drive\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Google Drive\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Google Drive\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Google Drive\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Microsoft.Owin.dll
+D:\Google Drive\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Google Drive\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Google Drive\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Microsoft.Owin.Security.dll
+D:\Google Drive\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Google Drive\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Microsoft.Owin.Security.Google.dll
+D:\Google Drive\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Google Drive\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Google Drive\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Google Drive\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Google Drive\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Google Drive\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Microsoft.Web.Infrastructure.dll
+D:\Google Drive\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Newtonsoft.Json.dll
+D:\Google Drive\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Owin.dll
+D:\Google Drive\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\System.Web.Optimization.dll
+D:\Google Drive\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\System.Web.Providers.dll
+D:\Google Drive\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\WebGrease.dll
+D:\Google Drive\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\System.Web.Optimization.xml
+D:\Google Drive\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Antlr3.Runtime.pdb
+D:\Google Drive\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Newtonsoft.Json.xml
+D:\Google Drive\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Google Drive\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\EntityFramework.xml
+D:\Google Drive\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\EntityFramework.SqlServer.xml
+D:\Google Drive\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Google Drive\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Google Drive\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Google Drive\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\System.Web.Providers.xml
+D:\Google Drive\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Microsoft.Owin.xml
+D:\Google Drive\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Google Drive\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Microsoft.Owin.Security.xml
+D:\Google Drive\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Google Drive\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Google Drive\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Microsoft.Owin.Security.Google.xml
+D:\Google Drive\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Google Drive\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Google Drive\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Google Drive\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\obj\Debug\Web.csprojAssemblyReference.cache
+D:\Google Drive\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\obj\Debug\Web.csproj.CoreCompileInputs.cache
+D:\Google Drive\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\obj\Debug\Web.csproj.CopyComplete
+D:\Google Drive\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\obj\Debug\Web.dll
+D:\Google Drive\project\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\obj\Debug\Web.pdb
+D:\Desktop\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Web.dll.config
+D:\Desktop\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Web.dll
+D:\Desktop\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Web.pdb
+D:\Desktop\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Antlr3.Runtime.dll
+D:\Desktop\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Desktop\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\AspNet.ScriptManager.jQuery.dll
+D:\Desktop\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\EntityFramework.dll
+D:\Desktop\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\EntityFramework.SqlServer.dll
+D:\Desktop\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Desktop\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Desktop\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Desktop\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Desktop\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Desktop\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Microsoft.Owin.dll
+D:\Desktop\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Desktop\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Desktop\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Microsoft.Owin.Security.dll
+D:\Desktop\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Desktop\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Microsoft.Owin.Security.Google.dll
+D:\Desktop\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Desktop\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Desktop\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Desktop\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Desktop\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Desktop\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Microsoft.Web.Infrastructure.dll
+D:\Desktop\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Newtonsoft.Json.dll
+D:\Desktop\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Owin.dll
+D:\Desktop\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\System.Web.Optimization.dll
+D:\Desktop\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\System.Web.Providers.dll
+D:\Desktop\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\WebGrease.dll
+D:\Desktop\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\System.Web.Optimization.xml
+D:\Desktop\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Antlr3.Runtime.pdb
+D:\Desktop\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Newtonsoft.Json.xml
+D:\Desktop\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Desktop\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\EntityFramework.xml
+D:\Desktop\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\EntityFramework.SqlServer.xml
+D:\Desktop\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Desktop\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Desktop\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Desktop\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\System.Web.Providers.xml
+D:\Desktop\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Microsoft.Owin.xml
+D:\Desktop\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Desktop\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Microsoft.Owin.Security.xml
+D:\Desktop\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Desktop\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Desktop\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Microsoft.Owin.Security.Google.xml
+D:\Desktop\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Desktop\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Desktop\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Desktop\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\obj\Debug\Web.csprojAssemblyReference.cache
+D:\Desktop\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\obj\Debug\Web.csproj.CoreCompileInputs.cache
+D:\Desktop\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\obj\Debug\Web.csproj.CopyComplete
+D:\Desktop\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\obj\Debug\Web.dll
+D:\Desktop\เวปเซอร์วิสบริหารการเงินส่วนบุคคล (ASP C#,SQL Server)\Web\Web\obj\Debug\Web.pdb

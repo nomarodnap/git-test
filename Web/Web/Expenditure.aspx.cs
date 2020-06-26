@@ -26,7 +26,7 @@ namespace Web
             var startOfYear = new DateTime(now.Year, 1, 1);
 
             //this month
-            var TMOCost = (from emp in db.Outcomes where emp.OTime >= startOfMonth && emp.OType.Contains(Session["username"].ToString()) && emp.username.Contains(Session["username"].ToString()) select (decimal?)emp.OCost).Sum() ?? 0;
+            var TMOCost = (from emp in db.Outcomes where emp.OTime >= startOfMonth && emp.username.Contains(Session["username"].ToString()) select (decimal?)emp.OCost).Sum() ?? 0;
             var TMOCostA = (from emp in db.Outcomes where emp.OTime >= startOfMonth && emp.OType.Contains("การศึกษา") && emp.username.Contains(Session["username"].ToString()) select (decimal?)emp.OCost).Sum() ?? 0;
             var TMOCostB = (from emp in db.Outcomes where emp.OTime >= startOfMonth && emp.OType.Contains("ค่าซ่อม/ดูแลรักษา") && emp.username.Contains(Session["username"].ToString()) select (decimal?)emp.OCost).Sum() ?? 0;
             var TMOCostC = (from emp in db.Outcomes where emp.OTime >= startOfMonth && emp.OType.Contains("ค่าเดินทาง/ค่าน้ำมันรถ") && emp.username.Contains(Session["username"].ToString()) select (decimal?)emp.OCost).Sum() ?? 0;

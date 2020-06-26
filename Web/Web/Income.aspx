@@ -83,10 +83,15 @@
                         <br />
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>ดูกราฟสรุปยอดรวมรายรับของทุกเดือนประจำปี</b>
             <asp:DropDownList ID="DropDownList2" runat="server" AutoPostBack="True" OnSelectedIndexChanged="DropDownList2_SelectedIndexChanged">
-                <asp:ListItem>2012</asp:ListItem>
-                <asp:ListItem>2013</asp:ListItem>
-                <asp:ListItem>2014</asp:ListItem>
-                <asp:ListItem Selected="True">2015</asp:ListItem>
+                    <asp:ListItem>2012</asp:ListItem>
+                    <asp:ListItem>2013</asp:ListItem>
+                    <asp:ListItem>2014</asp:ListItem>
+                    <asp:ListItem>2015</asp:ListItem>
+                    <asp:ListItem>2016</asp:ListItem>
+                    <asp:ListItem>2017</asp:ListItem>
+                    <asp:ListItem>2018</asp:ListItem>
+                    <asp:ListItem>2019</asp:ListItem>
+                    <asp:ListItem Selected="True">2020</asp:ListItem>
             </asp:DropDownList>
             <br />
              <br />
@@ -218,7 +223,12 @@
                     <asp:ListItem>2012</asp:ListItem>
                     <asp:ListItem>2013</asp:ListItem>
                     <asp:ListItem>2014</asp:ListItem>
-                    <asp:ListItem Selected="True">2015</asp:ListItem>
+                    <asp:ListItem>2015</asp:ListItem>
+                    <asp:ListItem>2016</asp:ListItem>
+                    <asp:ListItem>2017</asp:ListItem>
+                    <asp:ListItem>2018</asp:ListItem>
+                    <asp:ListItem>2019</asp:ListItem>
+                    <asp:ListItem Selected="True">2020</asp:ListItem>
                 </asp:DropDownList>
 &nbsp;<asp:Button ID="Button1" runat="server" Text="ค้นหา" OnClick="Button1_Click" />
             </p>
